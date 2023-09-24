@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpinnerPicker</string>
+    <array name="tujuan">
+        <item>Jakarta-Aceh</item>
+        <item>Jakarta-Bali</item>
+        <item>Jakarta-Bengkulu</item>
+        <item>Jakarta-Gorontalo</item>
+        <item>Jakarta-Yogyakarta</item>
+</resources>
